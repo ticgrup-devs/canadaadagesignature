@@ -107,7 +107,7 @@ document.addEventListener("DOMContentLoaded", function() {
 													<p style="margin:0px;font-size:12px;color:rgb(44,46,53);line-height:1.2;font-family: 'Roboto Condensed', sans-serif !important;">
 														<a href="https://www.canadacanada.com/" style="background-color:transparent;color:rgb(44,46,53);font-family: 'Roboto Condensed', sans-serif !important;" target="_blank">CANADACANADA.COM</a>
 													</p>
-													<img src="https://raw.githubusercontent.com/Ticgrup-devs/CanadaProdcoSignature/refs/heads/main/Ad_Age.png" width="75 alt="Logo">
+													<img src="https://drive.google.com/file/d/1Q8Q9nEJuaVGPxqdSMtTT4QEVU4p8AKG7/view?usp=drive_link" width="75 alt="Logo">
 												</td>
 											</tr>
 											<tr>
