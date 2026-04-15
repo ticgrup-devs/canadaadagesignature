@@ -125,8 +125,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
         signatureContainer.innerHTML = signatureHTML;
         document.getElementById("show-signature").style.display = "block";
-        document.getElementById('copy-button').style.display = 'block';
-        document.getElementById('download-button').style.display = 'block';
+        document.getElementById('copy-button').style.display = 'inline-block';
+        document.getElementById('download-button').style.display = 'inline-block';
     });
 });
 
