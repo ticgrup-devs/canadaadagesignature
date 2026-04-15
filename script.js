@@ -65,7 +65,8 @@ document.addEventListener("DOMContentLoaded", function() {
         `;
 
         signatureContainer.innerHTML = signatureHTML;
-        document.getElementById('copy-button').style.display = 'block';
+        document.getElementById('copy-button').style.display = 'inline-block';
+		document.getElementById('download-button').style.display = 'inline-block';
         // Asegurarse de mostrar el botón de descarga si existe en el HTML
         if(document.getElementById('download-button')) document.getElementById('download-button').style.display = 'block';
     });
