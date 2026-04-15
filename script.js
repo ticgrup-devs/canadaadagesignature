@@ -91,13 +91,13 @@ document.addEventListener("DOMContentLoaded", function() {
 			<table cellpadding="0" class="An" id=":qq" style="background-color: #ffffff;">
 				<tbody>
 					<tr>
-						<td class="Ap" style="background-color: #ffffff;">
-							<div id=":174" class="IN" style="display: block; background-color: #ffffff;">
+						<td class="Ap" style="background-color: transparent;">
+							<div id=":174" class="IN" style="display: block; background-color: transparent;">
 								<div id=":qg" class="roboto-firma" hidefocus="true" aria-label="Signature" g_editable="true" role="textbox" aria-multiline="true" contenteditable="true" style="direction: ltr; font-family: 'Roboto Condensed', sans-serif !important; color: rgb(44,46,53); background-color: #ffffff;">
 									<table style="border-spacing:0px;border-collapse:collapse;background-color: #ffffff;color:rgb(34,34,34);width:711.5px;max-width:1000px;font-family: 'Roboto Condensed', sans-serif !important;">
 										<tbody>
 											<tr>
-												<td style="padding:10px 10px 5px; background-color: #ffffff;">
+												<td style="padding:10px 10px 5px; background-color: transparent;">
 													<p style="margin:0px;font-size:12px;color:rgb(44,46,53);line-height:1.2;font-family: 'Roboto Condensed', sans-serif !important">${name} ${surname} ${genderText}</p>
 													<p style="margin:0px;font-size:12px;padding-bottom:10px;color:rgb(44,46,53);line-height:1.2;font-family: 'Roboto Condensed', sans-serif !important">${position}</p>
 													<p style="margin:0px;font-size:12px;padding-bottom:7px;color:rgb(44,46,53);line-height:1.2;font-family: 'Roboto Condensed', sans-serif !important;">
@@ -111,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function() {
 												</td>
 											</tr>
 											<tr>
-												<td style="padding:10px; background-color: #ffffff;">
+												<td style="padding:10px; background-color: transparent;">
 													<p style="margin:0px;font-size:0.6em;color:rgb(211,210,212);line-height:1.5;font-family: 'Roboto Condensed', sans-serif !important;">${officeText}</p>
 												</td>
 											</tr>
